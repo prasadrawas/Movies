@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "124191533697",
+    "project_id": "cineclub-44f88",
+    "storage_bucket": "cineclub-44f88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124191533697:android:130506d9d676430510bb80",
+        "android_client_info": {
+          "package_name": "com.example.my_cinemas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124191533697-il0k0hsr9llj0fp9lvjqb40ersjpsmbe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.my_cinemas",
+            "certificate_hash": "a73883443fdc9cebb161bbded7581eb01cfb3af2"
+          }
+        },
+        {
+          "client_id": "124191533697-g1qpiotkbg95fisevm20gmv978pskkn5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBsp8stcI_YkBvOz1TTxica_MPu8eTSwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124191533697-g1qpiotkbg95fisevm20gmv978pskkn5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
